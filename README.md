@@ -5,4 +5,4 @@ A CLI program that retrieves forecast data (date, temp, and weather condition) f
 
 ---
 
-Created while following along with the Web APIs lesson in the Python II course from Udacity.
+Created while completing the Web APIs lesson in the Python II course from Udacity.
