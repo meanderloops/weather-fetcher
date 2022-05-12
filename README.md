@@ -1,7 +1,7 @@
 # Weather Fetcher
 **Version 1.0.0**
 
-A CLI program that retrieves forcast data (date, temp, and weather condition) from https://www.metaweather.com/ for a major city the user inputs.
+A CLI program that retrieves forecast data (date, temp, and weather condition) from https://www.metaweather.com/ for a major city the user inputs.
 
 ---
 
